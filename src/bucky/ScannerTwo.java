@@ -12,5 +12,6 @@ public class ScannerTwo{
 		snum = bucky.nextDouble();
 		answer = fnum+snum;
 		System.out.println("The sum of the above number is:"+answer);
+		System.out.println("Thank you for watching!");
 	}
 }
